@@ -2,6 +2,11 @@
 
 Este proyecto consiste en una prueba automatizada usando Selenium y la librería ExtentReports. Las pruebas verifican el inicio de sesión en la página de pruebas The Internet
 
+# Video Demostrativo
+Puedes ver la demostración de la ejecución de la prueba automatizada en el siguiente enlace:
+
+[Clic aquí]()
+
 ## Historias de Usuario
 
 ### Historia de Usuario 1: Inicio de sesión con credenciales válidas
@@ -18,3 +23,13 @@ Este proyecto consiste en una prueba automatizada usando Selenium y la librería
 
 ### Historia de Usuario 5: Generación de capturas de pantalla de la prueba automatizada
 - Como desarrollador, quiero que la prueba automatizada capture una imagen de la pantalla de todos los casos ocurridos.
+
+# Reportes y Capturas
+Un ejemplo de los reportes de la prueba y las capturas de pantalla generadas durante la ejecución de la prueba se encuentran en las siguientes carpetas:
+
+Reporte generado: Reporte en formato HTML de los resultados de la prueba.
+Capturas: Capturas de pantalla de cada escenario de prueba ejecutado.
+
+# Autor
+
+Enjher Javier - 20231113
